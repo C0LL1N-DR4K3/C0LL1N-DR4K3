@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @C0LL1N-DR4K3!
+- 👀 I’m interested in Artificial Inteligence and web development.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on school projects within Peak to Peak.
+- 📫 You can reach me at collinlindendrake@gmail.com
